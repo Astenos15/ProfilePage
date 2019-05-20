@@ -1,0 +1,52 @@
+#navi{
+	background-color: #0ED2F7;
+}
+#hom{
+	font-family: 'Merriweather', serif;
+	color: white;
+	border-radius: 25%;
+	background-color: gray;
+}
+#hom:hover{
+  background-color: gray;
+  border: none;
+  color: white;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+
+}
+body{
+	background:url(img/images2.jpg)no-repeat center center fixed;
+}
+a{
+	margin-right: 30px;
+}
+h6	{
+	margin-top: 20px;
+}
+#jumbo1{
+	background:url(img/images.jpg);
+	border:1px solid black;
+	background-size: cover;
+	margin-left: 350px;
+	margin-top: 50px;
+	height: 330px;
+	box-shadow: 10px 10px 5px grey;
+}
+#jumbo2{
+	background-image: linear-gradient(#B2FEFA, #0ED2F7);
+	border:1px solid black;
+	margin-top: 50px;
+	height: 330px;
+	box-shadow: 10px 10px 5px grey;	
+}
+#image{
+	border-radius: 25%;
+	box-shadow: 10px 10px 5px grey;
+}
+#follow{
+	margin-top: 10px;
+}
